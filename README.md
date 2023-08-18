@@ -6,70 +6,62 @@
 O projeto é uma aplicação front end construída durante um período de estudo, para aprimorar minhas habilidades em UX/UI.
 
 A aplicação consiste em uma tela com um Footer responsivo, com um design moderno e com uma paleta de cor forte com alguns tons de contraste.
-
+  
+  
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+
+<div align="center">
+
+![Mobile 1](https://github.com/jgabfalcao/responsiveFooter/blob/main/assets/img/mobile.png) 
+
+</div>
+
+
+
+## Layout Tablet
+
+<div align="center">
+  
+![Modelo Conceitual](https://github.com/jgabfalcao/responsiveFooter/blob/main/assets/img/tablet.png)
+
+</div>
+
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+<div align="center">
+  
+<img src="https://github.com/jgabfalcao/responsiveFooter/blob/main/assets/img/note.png"  width="900px">
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+</div>
+
+
+<div>
+
+
 
 # Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- HTML
+- CSS
+- Live Server
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
 ## Front end web
-Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/jgabfalcao/responsiveFooter.git
 
-# entrar na pasta do projeto front end web
-cd front-web
+# entrar na pasta do projeto responsiveFooter
+cd responsiveFooter
 
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
+# rodar o projeto no live server
 ```
 
 # Autor
 
-Wellington Mazoni de Andrade
+João Gabriel Falcão dos Santos
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/jo%C3%A3o-falc%C3%A3o013/
